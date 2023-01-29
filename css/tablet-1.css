@@ -1,0 +1,23 @@
+#main-header {
+    height: auto;
+}
+
+.contact-row {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+}
+
+.contact-form {
+    width: 100%;
+}
+
+.contact-text {
+    width: 100%;
+    padding: 0;
+    min-width: 350px;
+}
+
+.form{
+    min-width: 280px;
+}

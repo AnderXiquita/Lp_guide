@@ -1,0 +1,36 @@
+#main-header {
+    height: 100vh;
+}
+
+.container-nav img {
+    width: 180px;
+}
+
+.container-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.container-showcase h1 {
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.container-showcase p {
+    display: none;
+}
+
+.container-video p {
+    font-size: 1rem;
+}
+
+.features-card {
+    min-width: 340px;
+}
+
+.contact-text {
+    width: 100%;
+    padding: 0;
+    min-width: 320px;
+}
